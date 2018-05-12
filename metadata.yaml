@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35880'
     url: http://www.gutenberg.org/2009/agents/35880
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32503#Swamp-Demons
 gutenberg_issued: '2010-05-24'
 gutenberg_type: Text
 identifiers:
